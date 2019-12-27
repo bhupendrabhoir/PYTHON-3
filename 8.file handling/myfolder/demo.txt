@@ -1,0 +1,7 @@
+This is my
+new content to 
+write in file
+This is my
+appended content to 
+write in file
+i done
